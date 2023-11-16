@@ -21,7 +21,6 @@ const LINNAD = [
     kirjeldus: "London on Suurbritannia ja Inglismaa pealinn, Suurbritannia saare suurim linn ning Rahvaste Ühenduse keskus. London on Moskva järel Euroopa suuruselt teine linn, Rotterdami järel Euroopa suuruselt teine sadamalinn ning New Yorgi järel maailma tähtsuselt teine rahandus- ja kaubanduskeskus. ",
     pilt: londonPilt
   }
-
 ];
 
 const App = () => (
